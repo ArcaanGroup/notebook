@@ -1,0 +1,39 @@
+/* For Inter font */
+body { font-family: 'Inter', sans-serif; }
+
+/* For system fonts */
+body { font-family: Vazirmatn, -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui; }
+
+/* For Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body { font-family: 'Roboto', sans-serif; }
+
+/* Force inline code to LTR */
+.cm-s-obsidian span.cm-inline-code,
+.markdown-preview-view code {
+    direction: ltr !important;
+    text-align: left !important;
+    unicode-bidi: isolate !important;
+}
+
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[alt*="right"] {
+    float: right;
+    clear: right;
+    margin-left: 1rem;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+img[alt*="left"] {
+    float: left;
+    clear: left;
+    margin-right: 1rem;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}

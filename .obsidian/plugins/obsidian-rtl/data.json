@@ -1,0 +1,13 @@
+{
+  "fileDirections": {
+    "06_Articles/DDD/۱ - لغت‌نامه تخصصی.md": "rtl",
+    "05_Books/The_C_Programming_Language/۲. پیش‌گفتار ویرایش نخست.md": "rtl",
+    "06_Articles/C/فصل ۲.md": "rtl"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "preventRTLFrontmatter": false,
+  "statusBar": true
+}
