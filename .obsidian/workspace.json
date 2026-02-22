@@ -11,10 +11,14 @@
             "id": "4d1e6f66f02d5891",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Articles/DDD/۱ - لغت‌نامه تخصصی.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "۱ - لغت‌نامه تخصصی"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "064b5fd108f77b6e",
+  "active": "4d1e6f66f02d5891",
   "lastOpenFiles": [
     "Articles/DDD/بخش اول - معرفی/۶ - چالش ها و اشتباهات رایج.md",
     "Articles/DDD/بخش اول - معرفی/۵. مدیریت اشیاء در سیستم.md",
@@ -184,6 +188,9 @@
     "Articles/DDD/بخش اول - معرفی/۳. مدیریت پیچیدگی با محدوده محصور (Bounded Context).md",
     "Articles/DDD/بخش اول - معرفی/۲. اجزاء اصلی.md",
     "Articles/DDD/بخش اول - معرفی/۱. طراحی مبتنی بر دامنه چیست؟.md",
+    "Articles/DDD/۱ - لغت‌نامه تخصصی.md",
+    "Articles/C/فصل ۲/بخش ۲.۱ ـ نام متغیرها (Variable Names).md",
+    "06_Articles/C/فصل ۲/بخش ۲.۱۲ _ اولویت و ترتیب اجرا (Precedence and Order of Evaluation).md",
     "Articles/C/فصل ۲/بخش ۲.۹ ـ عملگرهای بیتی (Bitwise Operators).md",
     "Articles/C/فصل ۲/بخش ۲.۸ ـ عملگرهای افزایش و کاهش (Increment and Decrement).md",
     "Articles/C/فصل ۲/بخش ۲.۷ ـ تبدیل نوع (Type Conversions).md",
@@ -195,8 +202,6 @@
     "Articles/C/فصل ۲/بخش ۲.۱۲ _ اولویت و ترتیب اجرا (Precedence and Order of Evaluation).md",
     "Articles/C/فصل ۲/بخش ۲.۱۱ _ عبارت‌های شرطی (Conditional Expressions).md",
     "Articles/C/فصل ۲/بخش ۲.۱۰ _ عملگرهای جایگزینی و عبارت‌ها (Assignment Operators).md",
-    "Articles/C/فصل ۲/بخش ۲.۱ ـ نام متغیرها (Variable Names).md",
-    "Articles/DDD/۱ - لغت‌نامه تخصصی.md",
     "Articles/DDD/بخش دوم - ورود به جزئیات",
     "Articles/DDD/بخش اول - معرفی",
     "Articles/C/فصل ۲",
@@ -204,7 +209,6 @@
     "Articles/C",
     "Articles",
     "06_Articles/C/فصل ۲/بخش ۲.۹ ـ عملگرهای بیتی (Bitwise Operators).md",
-    "06_Articles/C/فصل ۲/بخش ۲.۱۲ _ اولویت و ترتیب اجرا (Precedence and Order of Evaluation).md",
     "06_Articles/C/فصل ۲/بخش ۲.۱۰ _ عملگرهای جایگزینی و عبارت‌ها (Assignment Operators).md",
     "06_Articles/C/فصل ۲/بخش ۲.۱۱ _ عبارت‌های شرطی (Conditional Expressions).md",
     "06_Articles/C/فصل ۲/بخش ۲.۸ ـ عملگرهای افزایش و کاهش (Increment and Decrement).md",
