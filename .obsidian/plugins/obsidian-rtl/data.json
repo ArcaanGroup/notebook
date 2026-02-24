@@ -35,7 +35,17 @@
     "Articles/C/فصل ۴/بخش ۴.۸ ـ ساختار بلوکی (Block Structure).md": "rtl",
     "Articles/C/فصل ۴/بخش ۴.۹ _ مقداردهی اولیه (Initialization).md": "rtl",
     "Articles/C/فصل ۴/بخش ۴.۱۰ _ بازگشت (Recursion).md": "rtl",
-    "Articles/C/فصل ۴/بخش ۴.۱۱ _ پیش‌پردازنده سی (The C Pre-processor).md": "rtl"
+    "Articles/C/فصل ۴/بخش ۴.۱۱ _ پیش‌پردازنده سی (The C Pre-processor).md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۱ ـ اشاره‌گرها و آدرس‌ها (Pointers and Addresses).md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۲ _ اشاره‌گرها و آرگومان‌های تابع.md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۳ _ اشاره‌گرها و آرایه‌ها (Pointers and Arrays).md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۴ _ محاسبات آدرسی (Address Arithmetic).md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۵ ـ اشاره‌گرهای کاراکتری و توابع (Character Pointers and Functions).md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۶ _ آرایه‌های اشاره‌گر و اشاره‌گر به اشاره‌گر.md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۷ _ آرایه‌های چندبعدی (Multi-dimensional Arrays).md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۹ ـ اشاره‌گرها در مقابل آرایه‌های چندبعدی.md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۱۰ ـ آرگومان‌های خط فرمان (Command-line Arguments).md": "rtl",
+    "Articles/C/فصل ۵/بخش ۵.۱۱ _ اشاره‌گر به توابع (Pointers to Functions).md": "rtl"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
