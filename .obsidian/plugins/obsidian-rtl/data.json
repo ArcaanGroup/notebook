@@ -45,7 +45,14 @@
     "Articles/C/فصل ۵/بخش ۵.۷ _ آرایه‌های چندبعدی (Multi-dimensional Arrays).md": "rtl",
     "Articles/C/فصل ۵/بخش ۵.۹ ـ اشاره‌گرها در مقابل آرایه‌های چندبعدی.md": "rtl",
     "Articles/C/فصل ۵/بخش ۵.۱۰ ـ آرگومان‌های خط فرمان (Command-line Arguments).md": "rtl",
-    "Articles/C/فصل ۵/بخش ۵.۱۱ _ اشاره‌گر به توابع (Pointers to Functions).md": "rtl"
+    "Articles/C/فصل ۵/بخش ۵.۱۱ _ اشاره‌گر به توابع (Pointers to Functions).md": "rtl",
+    "Articles/C/فصل ۶/بخش ۶.۱ ـ مبانی ساختارها (Basics of Structures).md": "rtl",
+    "Articles/C/فصل ۶/بخش ۶.۲ _ ساختارها و توابع.md": "rtl",
+    "Articles/C/فصل ۶/بخش ۶.۳ _ آرایه‌ای از ساختارها (Arrays of Structures).md": "rtl",
+    "Articles/C/فصل ۶/بخش ۶.۴ _ اشاره‌گر به ساختارها.md": "rtl",
+    "Articles/C/فصل ۶/بخش ۶.۵ _ ساختارهای خود‌ ارجاع (Self-referential Structures).md": "rtl",
+    "Articles/C/فصل ۶/بخش ۶.۷ ـ تعریف نوع (typedef).md": "rtl",
+    "Articles/C/فصل ۶/بخش ۶.۸ _ یونیون‌ها (Unions).md": "rtl"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
