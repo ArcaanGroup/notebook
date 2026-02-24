@@ -17,7 +17,14 @@
     "Articles/C/فصل ۱/بخش ۱.۶ _ آرایه‌ها (Arrays).md": "rtl",
     "Articles/C/فصل ۱/بخش ۱.۷ _ توابع (Functions).md": "rtl",
     "Articles/C/فصل ۱/بخش ۱.۹ _ آرایه‌های کاراکتری (Character Arrays).md": "rtl",
-    "Articles/C/فصل ۱/بخش ۱.۱۰ _ متغیرهای خارجی و محدوده (External Variables and Scope).md": "rtl"
+    "Articles/C/فصل ۱/بخش ۱.۱۰ _ متغیرهای خارجی و محدوده (External Variables and Scope).md": "rtl",
+    "Articles/C/فصل ۳/بخش ۳.۱ ـ عبارات و بلوک‌ها (Statements and Blocks).md": "rtl",
+    "Articles/C/فصل ۳/بخش ۳.۲ ـ دستور if-else.md": "rtl",
+    "Articles/C/فصل ۳/بخش ۳.۳ _ ساختار else-if.md": "rtl",
+    "Articles/C/فصل ۳/بخش ۳.۴ _ دستور switch.md": "rtl",
+    "Articles/C/فصل ۳/بخش ۳.۵ _ حلقه‌های while و for.md": "rtl",
+    "Articles/C/فصل ۳/بخش ۳.۷ ـ دستورات break و continue.md": "rtl",
+    "Articles/C/فصل ۳/بخش ۳.۸ _ دستور goto و برچسب‌ها (Labels).md": "rtl"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
