@@ -56,7 +56,11 @@
     "Articles/C/فصل ۷/بخش ۷.۱ ـ ورودی و خروجی استاندارد (Standard IO).md": "rtl",
     "Articles/C/فصل ۷/بخش ۷.۲ ـ خروجی قالب‌بندی شده (printf).md": "rtl",
     "Articles/C/فصل ۷/بخش ۷.۳ ـ ورودی قالب‌بندی شده (scanf).md": "rtl",
-    "Articles/C/فصل ۷/بخش ۷.۴ _ دسترسی به فایل‌ها (File Access).md": "rtl"
+    "Articles/C/فصل ۷/بخش ۷.۴ _ دسترسی به فایل‌ها (File Access).md": "rtl",
+    "Articles/C/فصل ۸/بخش ۸.۱ ـ توصیف‌گرهای فایل (File Descriptors).md": "rtl",
+    "Articles/C/فصل ۸/بخش ۸.۲ ـ خواندن و نوشتن در سطح پایین (read و write).md": "rtl",
+    "Articles/C/فصل ۸/بخش ۸.۳ _ باز کردن، ایجاد کردن و بستن (open, creat, close).md": "rtl",
+    "Articles/C/فصل ۸/بخش ۸.۴ _ دسترسی تصادفی (lseek).md": "rtl"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,

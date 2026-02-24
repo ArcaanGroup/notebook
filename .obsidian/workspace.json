@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/C/فصل ۷/بخش ۷.۵ _ مدیریت خطا (stderr و exit).md",
+                "file": "Articles/C/فصل ۸/بخش ۸.۵ _ مثال پیاده‌سازی fsize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "بخش ۷.۵ _ مدیریت خطا (stderr و exit)"
+              "title": "بخش ۸.۵ _ مثال پیاده‌سازی fsize"
             }
           }
         ]
@@ -180,14 +180,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "064b5fd108f77b6e",
+  "active": "4d1e6f66f02d5891",
   "lastOpenFiles": [
+    "Articles/C/فصل ۸/بخش ۸.۴ _ دسترسی تصادفی (lseek).md",
+    "Articles/C/فصل ۸/بخش ۸.۳ _ باز کردن، ایجاد کردن و بستن (open, creat, close).md",
+    "Articles/C/فصل ۸/بخش ۸.۲ ـ خواندن و نوشتن در سطح پایین (read و write).md",
+    "Articles/C/فصل ۸/بخش ۸.۱ ـ توصیف‌گرهای فایل (File Descriptors).md",
+    "Articles/C/فصل ۸/بخش ۸.۵ _ مثال پیاده‌سازی fsize.md",
+    "Articles/C/فصل ۷/بخش ۷.۵ _ مدیریت خطا (stderr و exit).md",
     "Articles/C/فصل ۸",
     "Articles/C/فصل ۷/بخش ۷.۴ _ دسترسی به فایل‌ها (File Access).md",
     "Articles/C/فصل ۷/بخش ۷.۳ ـ ورودی قالب‌بندی شده (scanf).md",
     "Articles/C/فصل ۷/بخش ۷.۲ ـ خروجی قالب‌بندی شده (printf).md",
     "Articles/C/فصل ۷/بخش ۷.۱ ـ ورودی و خروجی استاندارد (Standard IO).md",
-    "Articles/C/فصل ۷/بخش ۷.۵ _ مدیریت خطا (stderr و exit).md",
     "Articles/C/فصل ۶/بخش ۶.۱ ـ مبانی ساختارها (Basics of Structures).md",
     "Articles/C/فصل ۷",
     "Articles/C/فصل ۶/بخش ۶.۲ _ ساختارها و توابع.md",
@@ -206,10 +211,6 @@
     "Articles/C/فصل ۵/بخش ۵.۲ _ اشاره‌گرها و آرگومان‌های تابع.md",
     "Articles/C/فصل ۵/بخش ۵.۱ ـ اشاره‌گرها و آدرس‌ها (Pointers and Addresses).md",
     "Articles/C/فصل ۵/بخش ۵.۱۱ _ اشاره‌گر به توابع (Pointers to Functions).md",
-    "Articles/C/فصل ۵/بخش ۵.۱۰ ـ آرگومان‌های خط فرمان (Command-line Arguments).md",
-    "Articles/C/فصل ۵/بخش ۵.۹ ـ اشاره‌گرها در مقابل آرایه‌های چندبعدی.md",
-    "Articles/C/فصل ۵/بخش ۵.۸ _ مقداردهی اولیه آرایه‌های اشاره‌گر.md",
-    "Articles/C/فصل ۴/بخش ۴.۱۱ _ پیش‌پردازنده سی (The C Pre-processor).md",
     "Articles/C/فصل ۵",
     "Articles/C/فصل ۴",
     "Articles/C/فصل ۳",
@@ -217,7 +218,6 @@
     "Articles/DDD/بخش دوم - ورود به جزئیات",
     "Articles/DDD/بخش اول - معرفی",
     "Articles/C/فصل ۲",
-    "Articles/DDD",
     "05_Books/Clean_Architecture/اسناد/Pasted image 20260222063636.png",
     "05_Books/Clean_Architecture/اسناد/Pasted image 20260222064045.png",
     "05_Books/Agile Software Development Principles, Patterns, and Practices/اسناد/Pasted image 20260119203253.png",
