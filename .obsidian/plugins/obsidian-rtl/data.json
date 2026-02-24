@@ -7,7 +7,17 @@
     "Articles/DDD/بخش اول - معرفی/۳. مدیریت پیچیدگی با محدوده محصور (Bounded Context).md": "rtl",
     "Articles/DDD/بخش اول - معرفی/۴. الگو های تاکتیکی.md": "rtl",
     "Articles/DDD/بخش اول - معرفی/۵. مدیریت اشیاء در سیستم.md": "rtl",
-    "Articles/DDD/۱ - لغت‌نامه تخصصی.md": "rtl"
+    "Articles/DDD/۱ - لغت‌نامه تخصصی.md": "rtl",
+    "Articles/C/پیش‌گفتار.md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۱ ـ شروع کار (Getting Started).md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۲ ـ متغیرها و عبارات محاسباتی (Variables and Arithmetic Expressions).md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۳ ـ دستور for.md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۴ _ ثابت‌های نمادین (Symbolic Constants).md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۵ ـ ورودی و خروجی کاراکتری (Character Input and Output).md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۶ _ آرایه‌ها (Arrays).md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۷ _ توابع (Functions).md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۹ _ آرایه‌های کاراکتری (Character Arrays).md": "rtl",
+    "Articles/C/فصل ۱/بخش ۱.۱۰ _ متغیرهای خارجی و محدوده (External Variables and Scope).md": "rtl"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
