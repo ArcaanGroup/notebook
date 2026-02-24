@@ -52,7 +52,11 @@
     "Articles/C/فصل ۶/بخش ۶.۴ _ اشاره‌گر به ساختارها.md": "rtl",
     "Articles/C/فصل ۶/بخش ۶.۵ _ ساختارهای خود‌ ارجاع (Self-referential Structures).md": "rtl",
     "Articles/C/فصل ۶/بخش ۶.۷ ـ تعریف نوع (typedef).md": "rtl",
-    "Articles/C/فصل ۶/بخش ۶.۸ _ یونیون‌ها (Unions).md": "rtl"
+    "Articles/C/فصل ۶/بخش ۶.۸ _ یونیون‌ها (Unions).md": "rtl",
+    "Articles/C/فصل ۷/بخش ۷.۱ ـ ورودی و خروجی استاندارد (Standard IO).md": "rtl",
+    "Articles/C/فصل ۷/بخش ۷.۲ ـ خروجی قالب‌بندی شده (printf).md": "rtl",
+    "Articles/C/فصل ۷/بخش ۷.۳ ـ ورودی قالب‌بندی شده (scanf).md": "rtl",
+    "Articles/C/فصل ۷/بخش ۷.۴ _ دسترسی به فایل‌ها (File Access).md": "rtl"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
