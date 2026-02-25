@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Java/۴. کلاس ها و اشیاء/۶. جزئیات بیشتر در مورد کلاس‌ها (More on Classes).md",
+                "file": "Articles/C/The_C_Programming_Language/۱. پیش‌گفتار.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "۶. جزئیات بیشتر در مورد کلاس‌ها (More on Classes)"
+              "title": "۱. پیش‌گفتار"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "4d1e6f66f02d5891",
   "lastOpenFiles": [
-    "Articles/Java/۴. کلاس ها و اشیاء/۷. کلاس‌های تودرتو (Nested Classes).md",
     "Articles/Java/۴. کلاس ها و اشیاء/۶. جزئیات بیشتر در مورد کلاس‌ها (More on Classes).md",
+    "Articles/Java/۴. کلاس ها و اشیاء/۷. کلاس‌های تودرتو (Nested Classes).md",
     "Articles/Java/اسناد/03_class-hierarchy-imaginary.png",
     "Articles/Java/۴. کلاس ها و اشیاء/۵. ایجاد و استفاده از اشیاء (Creating and Using Objects).md",
     "Articles/Java/اسناد/01_new-object.png",
