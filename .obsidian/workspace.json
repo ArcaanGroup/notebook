@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/C/The_C_Programming_Language/۱. پیش‌گفتار.md",
+                "file": "Articles/C/The_C_Programming_Language/فصل ۱/۱.۱ شروع کار.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "۱. پیش‌گفتار"
+              "title": "۱.۱ شروع کار"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "4d1e6f66f02d5891",
   "lastOpenFiles": [
+    "Articles/C/The_C_Programming_Language/فصل ۱/۱.۰ - آموزش سریع.md",
+    "Articles/C/The_C_Programming_Language/۱. پیش‌گفتار.md",
+    "Articles/C/The_C_Programming_Language/۲. پیش‌گفتار ویرایش نخست.md",
     "Articles/Java/۴. کلاس ها و اشیاء/۶. جزئیات بیشتر در مورد کلاس‌ها (More on Classes).md",
     "Articles/Java/۴. کلاس ها و اشیاء/۷. کلاس‌های تودرتو (Nested Classes).md",
     "Articles/Java/اسناد/03_class-hierarchy-imaginary.png",
@@ -216,8 +219,6 @@
     "Articles/C/فصل ۸/بخش ۸.۵ _ مثال پیاده‌سازی fsize.md",
     "Articles/Java",
     "Articles/C/فصل ۸/بخش ۸.۴ _ دسترسی تصادفی (lseek).md",
-    "Articles/C/فصل ۸/بخش ۸.۳ _ باز کردن، ایجاد کردن و بستن (open, creat, close).md",
-    "Articles/C/فصل ۸/بخش ۸.۲ ـ خواندن و نوشتن در سطح پایین (read و write).md",
     "Articles/C/فصل ۸",
     "Articles/C/فصل ۷",
     "Articles/C/فصل ۶",
